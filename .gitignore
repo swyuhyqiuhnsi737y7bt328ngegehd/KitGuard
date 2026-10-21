@@ -1,0 +1,16 @@
+# 构建产物
+*.obj
+*.sys
+*.exe
+*.cer
+*.pfx
+*.pdb
+*.ilk
+*.log
+
+# IDE / 临时文件
+.vs/
+*.user
+*.suo
+Thumbs.db
+desktop.ini
